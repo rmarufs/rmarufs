@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Maruf 👋
 
-<!--
-**rmarufs/rmarufs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer from Dushanbe, Tajikistan, working across **data/ML, backend and QA**. I like taking a project end to end: analysis, model, API, tests, deployment.
 
-Here are some ideas to get you started:
+Open to junior roles: **Data Analyst, Data Scientist, Backend (Python), QA Engineer**. On-site in Dushanbe or remote.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+
+The pinned repositories above are the best place to see my work: a credit scoring API (FastAPI, Docker), Earth Trend Detective (built for NASA Space Apps Challenge 2026), BazarBuy and Furuzon, and a Playwright test suite for the SauceDemo demo shop.
+
+## 🧰 What I work with
+
+- **Data & ML:** Python, pandas, NumPy, scikit-learn, CatBoost, SHAP, EDA, feature engineering, statistical testing, Plotly
+- **Backend:** FastAPI, Pydantic, REST API design, Supabase (PostgreSQL), Docker, Railway
+- **QA & testing:** manual testing, test cases and checklists, pytest, Playwright, Jira basics
+
+## 🎓 About me
+
+Fourth-year student. Languages: Tajik (native), Russian, English.
+
+## 📫 Contact
+
+marufidrs@gmail.com
