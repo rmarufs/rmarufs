@@ -6,7 +6,7 @@ Open to junior roles: **Data Analyst, Data Scientist, Backend (Python), QA Engin
 
 ## 🔭 Projects
 
-The pinned repositories above are the best place to see my work: a credit scoring API (FastAPI, Docker), Earth Trend Detective (built for NASA Space Apps Challenge 2026), BazarBuy and Furuzon, and a Playwright test suite for the SauceDemo demo shop.
+The pinned repositories are the best place to see my work: a credit scoring API (FastAPI, Docker), Earth Trend Detective (built for NASA Space Apps Challenge 2026), BazarBuy and Furuzon, and a Playwright test suite for the SauceDemo demo shop.
 
 ## 🧰 What I work with
 
