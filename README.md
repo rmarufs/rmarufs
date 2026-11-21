@@ -13,7 +13,3 @@ The pinned repositories are the best place to see my work: a credit scoring API 
 - **Data & ML:** Python, pandas, NumPy, scikit-learn, CatBoost, SHAP, EDA, feature engineering, statistical testing, Plotly
 - **Backend:** FastAPI, Pydantic, REST API design, Supabase (PostgreSQL), Docker, Railway
 - **QA & testing:** manual testing, test cases and checklists, pytest, Playwright, Jira basics
-
-## Contact
-
-marufidrs@gmail.com
