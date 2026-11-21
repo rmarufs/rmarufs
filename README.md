@@ -2,8 +2,6 @@
 
 Python developer from Dushanbe, Tajikistan, working across **data/ML, backend and QA**. I like taking a project end to end: analysis, model, API, tests, deployment.
 
-Open to junior roles: **Data Analyst, Data Scientist, Backend (Python), QA Engineer**. On-site in Dushanbe or remote.
-
 ## 🔭 Projects
 
 The pinned repositories are the best place to see my work: a credit scoring API (FastAPI, Docker), Earth Trend Detective (built for NASA Space Apps Challenge 2026), BazarBuy and Furuzon, and a Playwright test suite for the SauceDemo demo shop.
