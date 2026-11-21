@@ -1,6 +1,6 @@
 # Hi, I'm Maruf
 
-I'm Maruf Python developer from Dushanbe, Tajikistan, working across **data/ML, backend and QA**. I like taking a project end to end: analysis, model, API, tests, deployment.
+I'm Python developer from Dushanbe, Tajikistan, working across **data/ML, backend and QA**. I like taking a project end to end: analysis, model, API, tests, deployment.
 
 ## 🔭 Projects
 
