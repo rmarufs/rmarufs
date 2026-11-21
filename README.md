@@ -14,10 +14,6 @@ The pinned repositories are the best place to see my work: a credit scoring API 
 - **Backend:** FastAPI, Pydantic, REST API design, Supabase (PostgreSQL), Docker, Railway
 - **QA & testing:** manual testing, test cases and checklists, pytest, Playwright, Jira basics
 
-## About me
-
-Fourth-year student. Languages: Tajik (native), Russian, English.
-
 ## Contact
 
 marufidrs@gmail.com
