@@ -1,4 +1,4 @@
-# Hi, I'm Maruf 👋
+# Hi, I'm Maruf
 
 Python developer from Dushanbe, Tajikistan, working across **data/ML, backend and QA**. I like taking a project end to end: analysis, model, API, tests, deployment.
 
@@ -14,10 +14,10 @@ The pinned repositories above are the best place to see my work: a credit scorin
 - **Backend:** FastAPI, Pydantic, REST API design, Supabase (PostgreSQL), Docker, Railway
 - **QA & testing:** manual testing, test cases and checklists, pytest, Playwright, Jira basics
 
-## 🎓 About me
+## About me
 
 Fourth-year student. Languages: Tajik (native), Russian, English.
 
-## 📫 Contact
+## Contact
 
 marufidrs@gmail.com
